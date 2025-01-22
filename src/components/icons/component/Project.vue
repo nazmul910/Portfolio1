@@ -9,7 +9,7 @@ const state = reactive({
   detail:[
     {
       id:1,
-      url:"./public/image/projectImage/project1.png",
+      url:"public/image/projectImage/project1.png",
       title:"Dynamic E-com website",
       tech:"Html,Tailwind css,Vue js",
       git:"https://github.com/nazmul910/E-com-with-vue-js",
@@ -17,7 +17,7 @@ const state = reactive({
     },
     {
       id:2,
-      url:"./public/image/projectImage/scrnli_fP4r8pDDKy12hz.png",
+      url:"public/image/projectImage/scrnli_fP4r8pDDKy12hz.png",
       title:"Static Jewellery website",
       tech:"Html,Tailwind css,Vue js",
       git:"https://github.com/nazmul910/e-com-juwellery",
@@ -25,7 +25,7 @@ const state = reactive({
     },
     {
       id:3,
-      url:"./public/image/projectImage/project2.jpg",
+      url:"public/image/projectImage/project2.jpg",
       title:"E-com website",
       tech:"Html,Css,JavaScript",
       git:"https://github.com/nazmul910/Ecommarce",
