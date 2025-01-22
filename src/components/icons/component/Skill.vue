@@ -9,57 +9,57 @@ gsap.registerPlugin(ScrollTrigger);
     skill:[
      {
        id:'1',
-       url:'public/image/skill/pngwing.com (4).png',
+       url:'/image/skill/pngwing.com (4).png',
        name: 'html'
      },
      {
        id:'2',
-       url:'public/image/skill/pngwing.com (5).png',
+       url:'/image/skill/pngwing.com (5).png',
        name: 'css'
      },
      {
        id:'3',
-       url:'public/image/skill/pngwing.com (3).png',
+       url:'/image/skill/pngwing.com (3).png',
        name: 'JS'
      },
      {
        id:'4',
-       url:'public/image/skill/pngegg (3).png',
+       url:'/image/skill/pngegg (3).png',
        name: 'Bootstrap'
      },
      {
        id:'5',
-       url:'public/image/skill/pngwing.com (6).png',
+       url:'/image/skill/pngwing.com (6).png',
        name: 'Tailwind'
      },
      {
        id:'6',
-       url:'public/image/skill/pngegg (5).png',
+       url:'/image/skill/pngegg (5).png',
        name: 'vue js'
      },
      {
        id:'7',
-       url:'public/image/skill/pngwing.com.png',
+       url:'/image/skill/pngwing.com.png',
        name: 'gsap'
      },
      {
        id:'8',
-       url:'public/image/skill/flowbite.png',
+       url:'/image/skill/flowbite.png',
        name: 'Flowbite'
      },
      {
        id:'9',
-       url:'public/image/skill/firebase.png',
+       url:'/image/skill/firebase.png',
        name: 'firebase'
      },
      {
        id:'10',
-       url:'public/image/skill/github.png',
+       url:'/image/skill/github.png',
        name: 'github'
      },
      {
        id:'10',
-       url:'public/image/skill/figma.png',
+       url:'/image/skill/figma.png',
        name: 'figma'
      },
     ]
