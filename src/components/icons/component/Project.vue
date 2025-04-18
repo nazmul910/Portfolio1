@@ -31,6 +31,14 @@ const state = reactive({
       git:"https://github.com/nazmul910/Ecommarce",
       live:"https://nazmul910.github.io/Ecommarce/"
     },
+    {
+      id:4,
+      url:"/image/projectImage/Decor.png",
+      title:"Decor E-com website",
+      tech:"Vue js,Node js,Tailwind",
+      git:"https://github.com/nazmul910/Decor-Frontend-E-com",
+      live:"https://decor-e-com-site.netlify.app/"
+    },
 
   ]
 })
