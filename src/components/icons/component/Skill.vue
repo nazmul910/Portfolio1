@@ -58,10 +58,21 @@ gsap.registerPlugin(ScrollTrigger);
        name: 'github'
      },
      {
-       id:'10',
+       id:'11',
        url:'/image/skill/figma.png',
        name: 'figma'
      },
+     {
+       id:'12',
+       url:'/image/skill/react.png',
+       name: 'react'
+     },
+     {
+       id:'13',
+       url:'/image/skill/nodejs.png',
+       name: 'Node Js'
+     },
+
     ]
    })
 

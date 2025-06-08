@@ -25,11 +25,11 @@ const state = reactive({
     },
     {
       id:3,
-      url:"/image/projectImage/project2.jpg",
-      title:"E-com website",
-      tech:"Html,Css,JavaScript",
-      git:"https://github.com/nazmul910/Ecommarce",
-      live:"https://nazmul910.github.io/Ecommarce/"
+      url:"/image/projectImage/react_country.png",
+      title:"Ract Project",
+      tech:"Html,Css,Ract",
+      git:"https://github.com/nazmul910/React_country_project",
+      live:"https://country-react-project1.netlify.app/"
     },
     {
       id:4,
