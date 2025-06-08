@@ -130,7 +130,7 @@ const submitForm = async () => {
         <div class="grid xl:-ml-20  ">
           <div class="xl:mt-28 space-y-12 mb-10">
             <p class="text-tsecendary border-l-2 px-4 font-cormorant text-2xl ">Get In Touch</p>
-            <h1 class="text-white font-cormorant xs:text-[40px] md:text-5xl xl:text-7xl">If you have any porject or need help. Contact me</h1>
+            <h1 class="text-white font-cormorant xs:text-[35px] md:text-5xl xl:text-7xl">If you have any porject or need help. Contact me</h1>
             <p class="text-tsecendary font-robotoS text-md leading-7">Lorem Ipsum is simply dummy text of the printing and typesetting emndustry lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown print only five centuries, but also the leap into electronic.</p>
           </div>
           <form  @submit.prevent="submitForm">
@@ -138,12 +138,12 @@ const submitForm = async () => {
             <div class="grid space-y-8">
               <div class="gird space-y-12">
                 <div class="grid gap-y-8 xl:flex xl:justify-between">
-                  <input type="text" class="xl:px-8 focus:border-red-50  text-2xl xs:font-thin bg-secendary text-white" v-model="name" placeholder="Name" required>
-                  <input type="email" class="xl:px-8 focus:border-red-50 text-2xl xs:font-thin bg-secendary text-white" v-model="email" placeholder="Email" required>
+                  <input type="text" class="xl:px-8 focus:border-red-50  md:text-2xl xs:font-thin bg-secendary text-white" v-model="name" placeholder="Name" required>
+                  <input type="email" class="xl:px-8 focus:border-red-50 md:text-2xl xs:font-thin bg-secendary text-white" v-model="email" placeholder="Email" required>
                 </div>
                 <div class="grid  gap-y-8 xl:flex xl:justify-between">
-                  <input type="text" class="xl:px-8 focus:border-red-50 text-2xl xs:font-thin bg-secendary text-white " v-model="phone" placeholder="Phone" required>
-                  <input type="text" class="xl:px-8 focus:border-red-50 text-2xl xs:font-thin bg-secendary text-white" v-model="subject" placeholder="Subject" required>
+                  <input type="text" class="xl:px-8 focus:border-red-50 md:text-2xl xs:font-thin bg-secendary text-white " v-model="phone" placeholder="Phone" required>
+                  <input type="text" class="xl:px-8 focus:border-red-50 md:text-2xl xs:font-thin bg-secendary text-white" v-model="subject" placeholder="Subject" required>
                 </div>
 
               </div>
