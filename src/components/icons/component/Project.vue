@@ -39,6 +39,14 @@ const state = reactive({
       git:"https://github.com/nazmul910/Decor-Frontend-E-com",
       live:"https://decor-e-com-site.netlify.app/"
     },
+    {
+      id:5,
+      url:"/image/projectImage/E-doctor.png",
+      title:"E-DoctorSheba website",
+      tech:"Ract js,Node js,Tailwind",
+      git:"https://github.com/nazmul910/Frontend_E_DoctorSheba",
+      live:"https://frontend-e-doctor-sheba.vercel.app/"
+    },
 
   ]
 })

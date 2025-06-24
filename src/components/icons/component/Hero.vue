@@ -1,6 +1,6 @@
 <script setup>
 
-import 'primeicons/primeicons.css';
+import 'primeicons/primeicons.css'
 import { onMounted, ref } from 'vue';
 import gsap from 'gsap';
 import ScrollTrigger from "gsap/ScrollTrigger";
@@ -186,10 +186,10 @@ onMounted(() =>{
         <h1 class="text-white font-cormorant xs:text-[40px] md:text-5xl xl:text-7xl">If you have any porject or need help. Contact me</h1>
         <p class="text-tsecendary font-robotoS text-md leading-7 xs:hidden lg:block">Lorem Ipsum is simply dummy text of the printing and typesetting emndustry lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown print only five centuries, but also the leap into electronic.</p>
         <div class="flex justify-between pe-12 xl:justify-start xl:space-x-10">
-          <a href="https://www.linkedin.com/in/ni-nazmul-158098297/" target="_blank"><i class=" pi pi-linkedin  p-4 border rounded-full bg-white"></i></a>
-          <a href="https://github.com/nazmul910"  target="_blank"><i class=" pi pi-github  p-4 border rounded-full bg-white"></i></a>
-          <a href="https://www.facebook.com/ni.nazmul.58" target="_blank" ><i class=" pi pi-facebook  p-4 border rounded-full bg-white"></i></a>
-          <a href="" ><i class=" pi pi-instagram  p-4 border rounded-full bg-white"></i></a>
+          <a href="https://www.linkedin.com/in/ni-nazmul-158098297/" target="_blank"><i class="pi pi-linkedin  p-4 border rounded-full bg-white"></i></a>
+          <a href="https://github.com/nazmul910"  target="_blank"><i class="pi pi-github  p-4 border rounded-full bg-white"></i></a>
+          <a href="https://www.facebook.com/ni.nazmul.58" target="_blank" ><i class="pi pi-facebook  p-4 border rounded-full bg-white"></i></a>
+          <a href="" ><i class="pi pi-instagram  p-4 border rounded-full bg-white"></i></a>
         </div>
       </div>
       <form  @submit.prevent="submitForm" class="">
