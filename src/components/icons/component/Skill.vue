@@ -72,6 +72,11 @@ gsap.registerPlugin(ScrollTrigger);
        url:'/image/skill/nodejs.png',
        name: 'Node Js'
      },
+     {
+       id:'14',
+       url:'/image/skill/nextjs.png',
+       name: 'Next Js'
+     },
 
     ]
    })

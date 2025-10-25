@@ -47,6 +47,14 @@ const state = reactive({
       git:"https://github.com/nazmul910/Frontend_E_DoctorSheba",
       live:"https://frontend-e-doctor-sheba.vercel.app/"
     },
+    {
+      id:6,
+      url:"/image/projectImage/legalmate1.png",
+      title:"Justice website",
+      tech:"Next js,Node js,Tailwind",
+      git:"https://github.com/nazmul910/Lawyer-Frontend",
+      live:"https://lawyer-frontend-5g5p.vercel.app/"
+    },
 
   ]
 })
